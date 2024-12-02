@@ -1,5 +1,4 @@
 # FactFinder
-A Fact validity check!
 
 ## Project Overview
 Web application for detecting fake news using machine learning, text summarization, and hate speech analysis.
